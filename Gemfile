@@ -2,10 +2,11 @@ source "https://rubygems.org"
 
 gem 'jekyll', '~> 4.3.1'
 gem 'bundler', '~> 2.3.23'
-gem 'faraday-retry'
+gem 'faraday-retry', '~> 2.0'
 gem 'backports', '~> 3.23'
 gem 'kramdown'
 gem 'puma'
+
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

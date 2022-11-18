@@ -6,7 +6,7 @@
   "commit": false,
   "contributors": [
     {
-      "login": "sujaykundu777",
+      "login": "rbleattler",
       "name": "Sujay Kundu",
       "avatar_url": "https://avatars.githubusercontent.com/u/10703200?v=4",
       "profile": "https://sujaykundu.com",
@@ -139,7 +139,7 @@
   ],
   "contributorsPerLine": 7,
   "projectName": "devlopr-jekyll",
-  "projectOwner": "sujaykundu777",
+  "projectOwner": "rbleattler",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,

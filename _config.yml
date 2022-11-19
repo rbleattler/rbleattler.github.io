@@ -89,6 +89,10 @@ hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
 wakatime_username: rbleattler
+# wakatime_languages_guid: dda068dc-9ef8-4c69-9e34-e6d2abb0eafb #Dark, 7 days
+wakatime_languages_guid: 9caf00a1-9057-4a6c-a711-3a5769746646 #Dark, All Time
+wakatime_activity_guid: e4a7f9a6-7e1d-4af4-8eac-26ba0033c8ac #Dark, 7 days
+
 
 # mailchimp embedded form url (newsletter):
 # mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0

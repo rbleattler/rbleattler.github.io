@@ -84,7 +84,7 @@ medium_username: rbleattler
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
-# disqus_shortname: sujay-kundu
+disqus_shortname: rbleattlr
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
@@ -97,16 +97,15 @@ wakatime_activity_guid: 1fc68152-8d28-4893-afc8-1aa6a0b33ec1 #Transparent, 7 day
 
 
 # mailchimp embedded form url (newsletter):
-# mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
-mailchimp_form_url: null
+mailchimp_form_url: https://github.us8.list-manage.com/subscribe?u=c9157d9a7abc5ee3a586f8ec3&id=b316836bce
 
 # contact form - (choose formspress or getform)
-# getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: rbleattler+githubio@gmail.com
+getform_endpoint: 5dd7f8bc-643b-490a-a171-ab348c35e347
+# formspree_email: rbleattler+githubio@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
-olvy_organization: coast-technologies
-olvy_widget_type: sidebar
+# olvy_organization: coast-technologies
+# olvy_widget_type: sidebar
 
 # syntax highlighter
 markdown: kramdown

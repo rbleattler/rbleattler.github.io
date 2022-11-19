@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-# gem 'jekyll', '~> 4.3.1'
+
+# gem 'jekyll', '~> 4.2.2', '>= 4.1.1'
 gem 'bundler', '~> 2.3.23'
 gem 'faraday-retry'
 gem 'backports', '~> 3.23'
@@ -23,7 +24,6 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap', '~> 1.4.0'
     gem 'jekyll-admin', '~> 0.11.1'
 end
-
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.

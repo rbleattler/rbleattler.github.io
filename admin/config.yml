@@ -1,5 +1,6 @@
 backend:
-  name: github
+  # name: github #@ original value
+  name: git-gateway
   repo: rbleattler/rbleattler.github.io
   branch: main
   site_domain: preeminent-tiramisu-13eaa2.netlify.app

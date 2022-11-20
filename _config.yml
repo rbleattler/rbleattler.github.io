@@ -1,5 +1,5 @@
 title: rbleattler
-subtitle: A Portfolio Jekyll Theme Built for Developers
+subtitle: DevOps Engineer, Developer Advocate, Open Source Contributor, PowerShell Enthusiast
 description: >- # this means to ignore newlines until the next key
   rbleattler's professional blog and other musings.
 
@@ -26,7 +26,7 @@ urls:
 
 author_logo: profile.png
 author: Rob Bleattler
-author_bio: Hi, my name is Rob Bleattler. I am a DevOps Engineer, developer advocate, open source contributor, and PowerShell enthusiast.
+author_bio: Hi, my name is Rob Bleattler. I am a DevOps Engineer, Developer Advocate, Open Source Contributor, and PowerShell Enthusiast.
 author_email: "rbleattler@gmail.com"
 author_location: United States
 author_website_url: "https://robertbleattler.com"

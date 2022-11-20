@@ -26,11 +26,11 @@ urls:
 
 author_logo: profile.png
 author: Rob Bleattler
-author_bio: Hi, my name is Rob Bleattler. I built this site using devlopr-jekyll :D
+author_bio: Hi, my name is Rob Bleattler. I am a DevOps Engineer, developer advocate, open source contributor, and PowerShell enthusiast.
 author_email: "rbleattler@gmail.com"
 author_location: United States
 author_website_url: "https://robertbleattler.com"
-typewrite-text: I am a DevOps Engineer, developer advocate, and open source contributor.
+typewrite-text: I am a DevOps Engineer, developer advocate, open source contributor, and PowerShell enthusiast.
 hero_cover_img: ghio_bg.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences

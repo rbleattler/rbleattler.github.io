@@ -14,8 +14,8 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
+    # - text: Gallery #@ maybe reenable at some point. Not a bad idea
+    #   url: /gallery
     # - text: Shop #@ maybe reenable at some point. Not a bad idea
       # url : /shop
     - text: Contact

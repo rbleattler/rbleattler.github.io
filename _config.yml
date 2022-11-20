@@ -3,7 +3,7 @@ subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until the next key
   rbleattler's professional blog and other musings.
 
-url: "https://rbleattler.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://rbleattler.com" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation

@@ -30,32 +30,32 @@ author_bio: Hi, my name is Rob Bleattler. I built this site using devlopr-jekyll
 author_email: "rbleattler@gmail.com"
 author_location: United States
 author_website_url: "https://robertbleattler.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+typewrite-text: I am a DevOps Engineer, developer advocate, and open source contributor.
+hero_cover_img: ghio_bg.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: FreedomPay
+              company_logo: freedompay_logo.png
+              company_url: https://freedompay.com
+              designation: DevOps Engineer
+              description: Championing the DevOps culture and practices at FreedomPay. I am responsible for improving developer productivity and efficiency through automation and tooling. I am also responsible for the reliability and availability of our production systems.
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: United BioSource Corporation
+              company_logo: UBC-logo.png
+              company_url: https://ubc.com
+              designation: Senior Manager of DevOps
+              description: As the Senior Manager of DevOps at UBC I led an ongoing effort to establish the DevOps Center of Excellence. By driving the adoption of DevOps culture and practices, my team and I worked to strengthen agility, reliability, and security throughout the organization.
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
-                visibility: true
+              - college_logo: peirce.png
+                college_name: Peirce College
+                college_url: https://peirce.edu
+                college_degree: Information Technology
+                description: Associate in Science
+                visibility: false
 
 # Projects
 author_project_details:
@@ -63,12 +63,7 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: true
+                visibility: false
 
 # social links
 twitter_username: robertbleattler

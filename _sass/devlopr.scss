@@ -228,6 +228,13 @@ header {
     background-color: var(--card-background-color) !important;
 }
 
+.card-body img {
+    // for max width use webkit-fill-available if it is supported
+    max-width: 100% !important;
+    width: -webkit-fill-available !important;
+
+}
+
 #topNav{
     padding-left: 15%;
     padding-right: 15%;

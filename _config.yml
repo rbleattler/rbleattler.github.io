@@ -25,8 +25,8 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: Rob Bleattler
 author_bio: Hi, my name is Rob Bleattler. I am a DevOps Engineer, Developer Advocate, Open Source Contributor, and PowerShell Enthusiast.
+author: Rob Bleattler
 author_email: "rbleattler@gmail.com"
 author_location: United States
 author_website_url: "https://robertbleattler.com"
@@ -80,8 +80,8 @@ medium_username: rbleattler
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
-disqus_shortname: rbleattlr
-hyvor_talk_website_id: 476
+disqus_shortname: rbleattler
+# hyvor_talk_website_id: ??? ## #@ Idon't know what this is
 
 # wakatime username (coding activity)
 wakatime_username: "@rbleattler"

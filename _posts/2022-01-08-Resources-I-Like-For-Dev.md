@@ -93,7 +93,7 @@ Tabs & Spaces is hosted by [Zac Braddy](https://zackerthehacker.com/), [Jamie Ta
 
 #### Code Newbie
 
-[![img](https://s3.amazonaws.com/codenewbie-assets/medium/CNP_Purple_%281%29.png)](https://www.codenewbie.org/podcast)
+[![img](https://s3.amazonaws.com/codenewbie-assets/codenewbie+new+logo+white.png)](https://www.codenewbie.org/podcast)
 
 Code newbie is a fantastic resources for newer programmers. The show is conversational, and primarily focuses around front end development. The host [Saron Yitbarek](https://saron.io) is the producer of several podcasts and has an interesting public speaking history. While the topics often lean towards the front-end side of things, more recently they have branched out a bit. I recommend giving it a listen if you're looking for an easy listen from host who is easy to listen to and has spent the better part of the past decade as an advocate for developers both in her podcasts and other parts of the community.
 

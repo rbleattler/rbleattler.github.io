@@ -645,6 +645,7 @@ header {
     padding-left: 5px;
     padding-top: 2px;
     margin: 5px;
+    max-width: 100%; // Updated 2022-11-23; Attempt to resolve oversized images in articles
 }
 .recent-article-link{
     font-size: 20px;

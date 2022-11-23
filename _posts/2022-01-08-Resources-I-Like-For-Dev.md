@@ -6,7 +6,7 @@ author: Robert Bleattler
 date:   '2022-11-23 08:00:00 -0500'
 category: ['development', 'tools', 'resources']
 tags: csharp "C#" developer development tools resources tips libraries 
-thumbnail: assets/img/posts/closeup-computer-laptop-screen-showing-ideas-wooden-table.jpg
+thumbnail: /assets/img/posts/closeup-laptop-book.jpg
 keywords: development tools, dev tools, dev resources, podcast, youtube, book, learning tools
 usemathjax: false
 permalink: /blog/tools-and-resources/

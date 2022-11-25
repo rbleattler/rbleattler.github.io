@@ -2,7 +2,7 @@
 layout: post
 title:  "Resources, Projects, and Tools"
 summary: A living post which contains links, descriptions, and reviews to various resources I find useful such as PodCasts, Books, YouTube Channels, etc...
-author: Robert Bleattler
+author: rbleattler
 date:   '2022-11-23 08:00:00 -0500'
 category: ['development', 'tools', 'resources']
 tags: csharp "C#" developer development tools resources tips libraries 

@@ -59,16 +59,21 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: false
+              - project_title: FluentRegex
+                project_description: A .NET library for building regular expressions in a readable and understandable way.
+                project_url: https://github.com/rbleattler/FluentRegex
+                visibility: true
+                # project_thumbnail: gamershub.png
+              # - project_thumbnail: gamershub.png
+              #   project_title: Gamers Hub
+              #   project_description: A Platform built for Gamers and Game Devs
+              #   project_url: https://gamershub.in
+              #   visibility: false
 
 # social links
 twitter_username: robertbleattler
 github_username:  rbleattler
-# facebook_username: 
+# facebook_username:
 linkedin_username: rbleattler
 # behance_username: johndoe
 instagram_username: rbleattler

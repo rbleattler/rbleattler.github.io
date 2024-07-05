@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 2.0)
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
-    backports (3.24.1)
+    backports (3.25.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -298,7 +298,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  backports (~> 3.24)
+  backports (~> 3.25)
   bundler (~> 2.3.23)
   faraday-retry
   github-pages

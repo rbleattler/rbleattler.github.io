@@ -29,17 +29,23 @@ author_bio: Hi, my name is Rob Bleattler. I am a DevOps Engineer, Developer Advo
 author: Rob Bleattler
 author_email: "rbleattler@gmail.com"
 author_location: United States
-author_website_url: "https://robertbleattler.com"
+author_website_url: "https://rbleattler.com"
 typewrite-text: I am a DevOps Engineer, developer advocate, open source contributor, and PowerShell enthusiast.
 hero_cover_img: ghio_bg.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
+            - company_name: Viewpointe
+              company_logo: viewpointe_logo.png
+              company_url: https://viewpointe.com
+              designation: Senior DevOps Engineer
+              description: At Viewpointe I worked in cross-functional teams, collaborating to help modernize software and infrastructure deployment, automate business processes, and helped to build a culture of continuous learning and improvement across the Technical Services group.
+              visibility: true
             - company_name: FreedomPay
               company_logo: freedompay_logo.png
               company_url: https://freedompay.com
-              designation: DevOps Engineer
-              description: Championing the DevOps culture and practices at FreedomPay. I am responsible for improving developer productivity and efficiency through automation and tooling. I am also responsible for the reliability and availability of our production systems.
+              designation: Senior DevOps Engineer
+              description: Championing the DevOps culture and practices at FreedomPay. I was responsible for improving developer productivity and efficiency through automation and tooling. I am also responsible for the reliability and availability of our production systems.
               visibility: true
             - company_name: United BioSource Corporation
               company_logo: UBC-logo.png

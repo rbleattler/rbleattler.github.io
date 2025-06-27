@@ -36,7 +36,7 @@ hero_cover_img: ghio_bg.jpg # replace this for changing homepage cover (eg. try 
 # Experiences
 author_work_experiences:
             - company_name: Viewpointe
-              company_logo: viewpointe_logo.png
+              company_logo: viewpointe_logo.svg
               company_url: https://viewpointe.com
               designation: Senior DevOps Engineer
               description: At Viewpointe I worked in cross-functional teams, collaborating to help modernize software and infrastructure deployment, automate business processes, and helped to build a culture of continuous learning and improvement across the Technical Services group.

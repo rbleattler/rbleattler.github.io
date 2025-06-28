@@ -69,6 +69,10 @@ author_project_details:
                 project_description: A .NET library for building regular expressions in a readable and understandable way.
                 project_url: https://github.com/rbleattler/FluentRegex
                 visibility: true
+              - project_title: Excel2Yaml
+                project_description: An Office Script for Excel Online that converts structured table data into clean, configurable YAML output. Built with TypeScript and optimized for maintainability and extensibility, it supports templating, variable injection, and documentation generation—all from a single, scriptable interface.
+                project_url: https://github.com/rbleattler/Excel2Yaml
+                visibility: true
                 # project_thumbnail: gamershub.png
               # - project_thumbnail: gamershub.png
               #   project_title: Gamers Hub

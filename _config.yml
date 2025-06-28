@@ -8,19 +8,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Home
-      url: /
-    - text: About
-      url: /about
-    - text: Blog
-      url: /blog
-    # - text: Gallery #@ maybe reenable at some point. Not a bad idea
-    #   url: /gallery
-    # - text: Shop #@ maybe reenable at some point. Not a bad idea
-      # url : /shop
-    - text: Contact
-      url : /contact
-
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+  - text: Blog
+    url: /blog
+  # - text: Gallery #@ maybe reenable at some point. Not a bad idea
+  #   url: /gallery
+  # - text: Shop #@ maybe reenable at some point. Not a bad idea
+  # url : /shop
+  - text: Contact
+    url: /contact
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
@@ -35,54 +34,54 @@ hero_cover_img: ghio_bg.jpg # replace this for changing homepage cover (eg. try 
 
 # Experiences
 author_work_experiences:
-            - company_name: Viewpointe
-              company_logo: viewpointe_logo.svg
-              company_url: https://viewpointe.com
-              designation: Senior DevOps Engineer
-              description: At Viewpointe I worked in cross-functional teams, collaborating to help modernize software and infrastructure deployment, automate business processes, and helped to build a culture of continuous learning and improvement across the Technical Services group.
-              visibility: true
-            - company_name: FreedomPay
-              company_logo: freedompay_logo.png
-              company_url: https://freedompay.com
-              designation: Senior DevOps Engineer
-              description: Championing the DevOps culture and practices at FreedomPay. I was responsible for improving developer productivity and efficiency through automation and tooling. I am also responsible for the reliability and availability of our production systems.
-              visibility: true
-            - company_name: United BioSource Corporation
-              company_logo: UBC-logo.png
-              company_url: https://ubc.com
-              designation: Senior Manager of DevOps
-              description: As the Senior Manager of DevOps at UBC I led an ongoing effort to establish the DevOps Center of Excellence. By driving the adoption of DevOps culture and practices, my team and I worked to strengthen agility, reliability, and security throughout the organization.
-              visibility: true
+  - company_name: Viewpointe
+    company_logo: viewpointe_logo.svg
+    company_url: https://viewpointe.com
+    designation: Senior DevOps Engineer
+    description: At Viewpointe I worked in cross-functional teams, collaborating to help modernize software and infrastructure deployment, automate business processes, and helped to build a culture of continuous learning and improvement across the Technical Services group.
+    visibility: true
+  - company_name: FreedomPay
+    company_logo: freedompay_logo.png
+    company_url: https://freedompay.com
+    designation: Senior DevOps Engineer
+    description: Championing the DevOps culture and practices at FreedomPay. I was responsible for improving developer productivity and efficiency through automation and tooling. I am also responsible for the reliability and availability of our production systems.
+    visibility: true
+  - company_name: United BioSource Corporation
+    company_logo: UBC-logo.png
+    company_url: https://ubc.com
+    designation: Senior Manager of DevOps
+    description: As the Senior Manager of DevOps at UBC I led an ongoing effort to establish the DevOps Center of Excellence. By driving the adoption of DevOps culture and practices, my team and I worked to strengthen agility, reliability, and security throughout the organization.
+    visibility: true
 
 # Education
 author_education_details:
-              - college_logo: peirce.png
-                college_name: Peirce College
-                college_url: https://peirce.edu
-                college_degree: Information Technology
-                description: Associate in Science
-                visibility: false
+  - college_logo: peirce.png
+    college_name: Peirce College
+    college_url: https://peirce.edu
+    college_degree: Information Technology
+    description: Associate in Science
+    visibility: false
 
 # Projects
 author_project_details:
-              - project_title: FluentRegex
-                project_description: A .NET library for building regular expressions in a readable and understandable way.
-                project_url: https://github.com/rbleattler/FluentRegex
-                visibility: true
-              - project_title: Excel2Yaml
-                project_description: An Office Script for Excel Online that converts structured table data into clean, configurable YAML output. Built with TypeScript and optimized for maintainability and extensibility, it supports templating, variable injection, and documentation generation—all from a single, scriptable interface.
-                project_url: https://github.com/rbleattler/Excel2Yaml
-                visibility: true
-                # project_thumbnail: gamershub.png
-              # - project_thumbnail: gamershub.png
-              #   project_title: Gamers Hub
-              #   project_description: A Platform built for Gamers and Game Devs
-              #   project_url: https://gamershub.in
-              #   visibility: false
+  - project_title: Excel2Yaml
+    project_description: An Office Script for Excel Online that converts structured table data into clean, configurable YAML output. Built with TypeScript and optimized for maintainability and extensibility, it supports templating, variable injection, and documentation generation—all from a single, scriptable interface.
+    project_url: https://github.com/rbleattler/Excel2Yaml
+    visibility: true
+  - project_title: FluentRegex
+    project_description: A .NET library for building regular expressions in a readable and understandable way.
+    project_url: https://github.com/rbleattler/FluentRegex
+    visibility: true
+    # project_thumbnail: gamershub.png
+  # - project_thumbnail: gamershub.png
+  #   project_title: Gamers Hub
+  #   project_description: A Platform built for Gamers and Game Devs
+  #   project_url: https://gamershub.in
+  #   visibility: false
 
 # social links
 twitter_username: robertbleattler
-github_username:  rbleattler
+github_username: rbleattler
 # facebook_username:
 linkedin_username: rbleattler
 # behance_username: johndoe
@@ -105,7 +104,6 @@ wakatime_username: "@rbleattler"
 # wakatime_activity_guid: e4a7f9a6-7e1d-4af4-8eac-26ba0033c8ac #Dark, 7 days
 wakatime_languages_guid: 8e83d326-1068-4704-8ad5-b79ef9ef0930 #Transparent back, foreground Orange, All Time
 wakatime_activity_guid: 1fc68152-8d28-4893-afc8-1aa6a0b33ec1 #Transparent, 7 days
-
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://github.us8.list-manage.com/subscribe?u=c9157d9a7abc5ee3a586f8ec3&id=b316836bce
@@ -156,21 +154,18 @@ collections:
     output: true
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "gallery"
     values:
       permalink: /:path/:basename:output_ext
-  -
-    scope:
+  - scope:
       path: ""
       type: authors
     values:
       layout: author
       permalink: /blog/authors/:slug
-  -
-    scope:
-      path: 'assets/**'
+  - scope:
+      path: "assets/**"
     values:
       sitemap: false
 
@@ -191,7 +186,6 @@ jekyll_admin:
   #   - datafiles
   #   - configuration
   homepage: "posts"
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -242,6 +236,5 @@ exclude:
   - assets/bower_components/lightgallery/test/lightgallery.html
   - assets/bower_components/masonry-layout/README.md
   - assets/bower_components/imagesloaded/README.md
-
 
 destination: ./build

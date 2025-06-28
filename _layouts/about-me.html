@@ -145,14 +145,14 @@ layout: default
 				project.visibility == true %}
 				<!-- if there IS an image, add it -->
 				<div class="row" id="project-card">
+          {% if project.project_thumbnail %}
 					<div class="col-md-6">
-						{% if project.project_thumbnail %}
 						<img
 							src="{{site.url}}{{site.baseurl}}/assets/img/{{project.project_thumbnail}}"
 							class="project-img"
 						/>
-						{% endif %}
 					</div>
+          {% endif %}
 					<div class="col-md-4 center">
 						<h4 class="experience-title">{{ project.project_title }}</h4>
 						<h6 class="experience-info">{{ project.project_info}}</h6>
